@@ -6,9 +6,10 @@ This is a hobby project in which I am building a VAE model to use open source im
 Why images are incomplete?
 
 I had lost some of my data and trying to recreate the model again. So you'll see new images with updated code soon.
-
 I have attached some images from my previous work as well.
 
+About the code:
+Since this was developed using Azure machine learning studio, I am deliberately skipping the storage account details.
 
 What is variational auto encoder?
 
