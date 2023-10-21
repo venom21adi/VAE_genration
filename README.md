@@ -19,10 +19,8 @@ A Variational Autoencoder (VAE) is a type of generative model used in machine le
 Since this project was developed using Azure Machine Learning Studio, we have deliberately omitted the storage account details for security reasons.
 
 **Repository Structure:**
-- `vae_model.py`: Python script containing the VAE model implementation.
-- `data_preprocessing.py`: Code for data preprocessing.
-- `image_generation.py`: Script for generating new images using the trained VAE model.
-- `sample_images/`: Directory containing sample images from previous project work.
+- `Version 1`: Python script containing the VAE model implementation and two different configurations and their results. This is a structure where no batch normalization was implemented. One can see even how poorly it performs.
+- `Version 2`: Python script containing the VAE model implementation and two different configurations and their results. This is a structure where batch normalization was implemented. One can see better it performs.
 
 **Coming Soon:**
 We are working on updating the project to produce new images, so stay tuned for exciting results.
