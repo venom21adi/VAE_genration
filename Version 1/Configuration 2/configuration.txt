@@ -1,0 +1,2 @@
+Latent_dim =128
+Batch_size = 128
