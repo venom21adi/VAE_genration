@@ -4,7 +4,7 @@
 **Project Overview:**
 This is a hobby project focused on building a Variational Autoencoder (VAE) model using TensorFlow's framework and Azure Machine Learning Studio. The project's primary goal is to generate new images from open-source image datasets. Please note that some images are currently incomplete due to data loss, but the code is being updated to produce new images.
 
-![Sample Images](insert-image-url-here) <!-- Include sample images here -->
+
 
 **About Variational Autoencoder (VAE):**
 A Variational Autoencoder (VAE) is a type of generative model used in machine learning and deep learning. It is a specific kind of autoencoder designed for unsupervised learning and dimensionality reduction. VAEs are particularly useful for generating new data similar to a given dataset. They find applications in tasks such as image generation, data denoising, and feature learning.
@@ -30,10 +30,9 @@ We are working on updating the project to produce new images, so stay tuned for 
 **Sample Images:**
 Here are some sample images from the previous project work:
 
-![Sample Image 1](insert-image-url-here)
-![Sample Image 2](insert-image-url-here)
+
 <!-- Include sample image URLs here -->
 
 ---
 
-Feel free to replace "insert-image-url-here" with the actual image URLs in your project. This Markdown format should help you present your project overview and details clearly on GitHub.
+
