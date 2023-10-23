@@ -21,6 +21,7 @@ Since this project was developed using Azure Machine Learning Studio, we have de
 **Repository Structure:**
 - `Version 1`: Python script containing the VAE model implementation and two different configurations and their results. This is a structure where no batch normalization was implemented. One can see even how poorly it performs.
 - `Version 2`: Python script containing the VAE model implementation and two different configurations and their results. This is a structure where batch normalization was implemented. One can see better it performs.
+- `Version 3`: Python script containing the VAE model implementation and two different configurations and their results. This is an improvement over the Version 2 where in the latent dimensions have been increased to 200 and the higher number of feature maps at every stage. One can see better it performs.
 
 **Coming Soon:**
 We are working on updating the project to produce new images, so stay tuned for exciting results.
